@@ -3,7 +3,7 @@
 
 import java.util.*;
 
-class Program328
+class Program02
 {
     public static void main(String arg[]) 
     {
